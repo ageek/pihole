@@ -1,0 +1,2 @@
+#Block embeded video run via flashplayer
+https://cdn4.fireworktv.com
