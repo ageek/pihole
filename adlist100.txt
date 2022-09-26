@@ -1,2 +1,5 @@
 #Block embeded video run via flashplayer
-https://cdn4.fireworktv.com
+0.0.0.0 https://cdn1.fireworktv.com
+0.0.0.0 https://cdn2.fireworktv.com
+0.0.0.0 https://cdn3.fireworktv.com
+0.0.0.0 https://cdn4.fireworktv.com
