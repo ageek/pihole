@@ -1,5 +1,23 @@
+
+
+# Title: flash video play block list
+# Description: Block embeded video run via flashplayer on browsers
+# Author: ageek
+# License: GNU General Public License v3.0
+# Home: https://github.com/ageek/pihole/edit/main/adlist100.txt
+# Updated: 29 Sep 2022
+# LatestVersion 29.09
+# Domain Count: 4
+#===============================================================
 #Block embeded video run via flashplayer
-0.0.0.0 https://cdn1.fireworktv.com
-0.0.0.0 https://cdn2.fireworktv.com
-0.0.0.0 https://cdn3.fireworktv.com
-0.0.0.0 https://cdn4.fireworktv.com
+cdn1.fireworktv.com
+cdn2.fireworktv.com
+cdn3.fireworktv.com
+cdn4.fireworktv.com
+
+#misc
+#2020workaffnew.top #Malvertising - Malware
+#0.0.0.0 https://cdn1.fireworktv.com
+#0.0.0.0 https://cdn2.fireworktv.com
+#0.0.0.0 https://cdn3.fireworktv.com
+#0.0.0.0 https://cdn4.fireworktv.com
