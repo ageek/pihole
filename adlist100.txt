@@ -15,6 +15,9 @@ cdn2.fireworktv.com
 cdn3.fireworktv.com
 cdn4.fireworktv.com
 
+trends.revcontent.com
+www.sscwr.org
+
 #misc
 #2020workaffnew.top #Malvertising - Malware
 #0.0.0.0 https://cdn1.fireworktv.com
