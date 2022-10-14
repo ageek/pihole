@@ -5,9 +5,9 @@
 # Author: ageek
 # License: GNU General Public License v3.0
 # Home: https://github.com/ageek/pihole/edit/main/adlist100.txt
-# Updated: 29 Sep 2022
-# LatestVersion 29.09
-# Domain Count: 4
+# Updated: 14 Oct 2022
+# LatestVersion 14.10
+# Domain Count: 7
 #===============================================================
 #Block embeded video run via flashplayer
 cdn1.fireworktv.com
@@ -17,6 +17,7 @@ cdn4.fireworktv.com
 
 trends.revcontent.com
 www.sscwr.org
+ads-ams3.bprise.net
 
 #misc
 #2020workaffnew.top #Malvertising - Malware
